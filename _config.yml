@@ -1,9 +1,9 @@
 # Site settings
-title: Advance Human Spaceflight
-description: Welcome to Leon Chen's page 
+title: Website Title
+description: Website short description
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "leon-chen.com"  
+url: "https://yk-liu.github.io"  
 
 
 # GitHub User settings
@@ -11,7 +11,7 @@ username: Username
 github_username: github_username
 user_description: user_description
 user_title: user_title
-email: leon_sty@hotmail.com
+email: 
 
 # Blog Author settings
 author:
@@ -67,6 +67,7 @@ defaults:
       commentable: true
       rss: true
       numbering: true
+
 
 exclude:
  - LICENSE.md
