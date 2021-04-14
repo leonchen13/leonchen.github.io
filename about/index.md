@@ -8,18 +8,6 @@ protected: true
 mathjax: true
 ---
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-
 # Me
 My name is Leon Chen. I am currently a graduate student at Georgia Insitute of Technology majoying in Aerospace Engineering.
 
