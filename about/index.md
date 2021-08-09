@@ -22,51 +22,22 @@ Education
 
 Work experience
 ======
-* Life Support System Engineer Intern - SpaceX - May 2021 - Aug 2021
-------
+### Life Support System Engineer Intern - SpaceX - May 2021 - Aug 2021
+
   * In charge of Fire Suppression System (FSS) for crew dragon
   * Lead Crew Dragon Portable Fire Extinguisher (PFE) failure investigation
   * Design and analyze Starship Environmental Control and Life Support Systems (ECLSS)
 
-* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
-------
-  * AF Project: DoD Next Generation Weather Satellite Constellation
-  * Evaluate the impact of alternative satellite architectures and sensor configuration on DoD space-based environmental monitoring (SBEM) capability
-  * Investigate potential technology or operational solutions to address capability gaps
-  * Analyze a 6x2 LEO constellation that leverages assess for coverage, refresh rate, and latency
-  * Develop cost model and perform trade study on key elements such as cost, performance on the constellation
-  * Optimize a HEO orbit for EOIR coverage in the arctic with ABI imager as a baseline
+### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
 
-* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
-------
-  * NASA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
-  * Develop MBSE approach and framework for space vehicle system architects utilizing the multi-disciplinary design process to deal with pervasive system complexity problem
-  * Develop model-based MEL, PEL and mission profile for lunar lander cargo mission
-  * Enhance the design convergence process through explicit integration of architecture sizing and synthesis
-tool - DYREQT (developed by GT ASDL and MSFC)
-  * Develop Lunar Lander model in MagicDraw, OpenMBEE, and DYREQT
-  * Perform use case and error potential reduction to demonstrate the benefit of using MBSE
-
-* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
-------
-  * FAA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
-  * Selected Jet Noise Reduction Technology
-  * Provided boundary conditions for CFD simulation
-  * Minimized thrust degradation due to noise reduction technology
-  * Designed better supersonic aircraft inlet to minimize thrust loss due to installation effects
-  * Modeled inlet performance using zero-order methods for different inlets to minimize installation effects
-
-* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
-------
   * NASA Project: Sustainable and Resilient Space Habitats for Long-Term Spaceflight Operation
   * Explored and identified appropriate methods/techniques for resilience assessment on different configuration strategies against different scenarios
   * Explored and develop additional recovery/reconfiguration strategies
   * Explored and design lunar exploration habitats and lunar rovers
   * Developed a parametric, flexible and MBSE-enabled total habitat system model
 
+### NASA ISS Environmental Control and Life Support Systems Engineer - NASA/The Boeing Company - January 2018 – August 2020
 
-* NASA ISS Environmental Control and Life Support Systems Engineer - NASA/The Boeing Company - January 2018 – August 2020
-------
   * ISS Expedition 61/62/63/64 Increment Lead
   * ISS Resupply Vehicle HTV-9 Team Lead
   * ECLSS -MERLIN console Team Lead
@@ -82,14 +53,44 @@ tool - DYREQT (developed by GT ASDL and MSFC)
   * Certified MERLIN on Console to provide Engineering Support in the MCC-MER (MER)
 
 
-* United State Air Force System Engineer - U.S. Air Force/Advanced Project Consulting - September 2016 – January 2018
-------
+### United State Air Force System Engineer - U.S. Air Force/Advanced Project Consulting - September 2016 – January 2018
+
   * Researched factors that degrade system reliability and developed means to better predict reliability
   * Provided Integrated Engineer Support to various platforms: C-130, E-3, B-52, C-5, F15, & F16
   * Analyzed and Created Engineer drawings providing alternate parts to qualify for Fit, Form and Function
   * Developed test criteria, procedures and design test apparatuses in support of system parts development
   * Designed obsoleted system parts with multiple CAD tools including Solidwork and ProE
   * Provided failure and root cause engineering analysis and integration support for USAF hardware
+
+Graduate Research Projects
+======
+### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+
+  * AF Project: DoD Next Generation Weather Satellite Constellation
+  * Evaluate the impact of alternative satellite architectures and sensor configuration on DoD space-based environmental monitoring (SBEM) capability
+  * Investigate potential technology or operational solutions to address capability gaps
+  * Analyze a 6x2 LEO constellation that leverages assess for coverage, refresh rate, and latency
+  * Develop cost model and perform trade study on key elements such as cost, performance on the constellation
+  * Optimize a HEO orbit for EOIR coverage in the arctic with ABI imager as a baseline
+
+### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+
+  * NASA Project: Mode Based System Engineering for In Space Vehicle
+  * Develop MBSE approach and framework for space vehicle system architects utilizing the multi-disciplinary design process to deal with pervasive system complexity problem
+  * Develop model-based MEL, PEL and mission profile for lunar lander cargo mission
+  * Enhance the design convergence process through explicit integration of architecture sizing and synthesis
+tool - DYREQT (developed by GT ASDL and MSFC)
+  * Develop Lunar Lander model in MagicDraw, OpenMBEE, and DYREQT
+  * Perform use case and error potential reduction to demonstrate the benefit of using MBSE
+
+### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+
+  * FAA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
+  * Selected Jet Noise Reduction Technology
+  * Provided boundary conditions for CFD simulation
+  * Minimized thrust degradation due to noise reduction technology
+  * Designed better supersonic aircraft inlet to minimize thrust loss due to installation effects
+  * Modeled inlet performance using zero-order methods for different inlets to minimize installation effects
 
 Undergraduate Research Projects
 ======
