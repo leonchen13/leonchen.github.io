@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 # Me
-My name is Leon Chen. I am currently a graduate student at Georgia Insitute of Technology major in Aerospace Engineering.
+My name is Leon Chen. I am currently a graduate student at Georgia Insitute of Technology major in Aerospace Engineering with research focus on modeled base system engineering in space habitat design and in space vehicle design, and satellite constellation optimization. 
 
 
 Education
@@ -23,9 +23,13 @@ Education
 Work experience
 ======
 * Life Support System Engineer Intern - SpaceX - May 2021 - Aug 2021
-  
+------
+  * In charge of Fire Suppression System (FSS) for crew dragon
+  * Lead Crew Dragon Portable Fire Extinguisher (PFE) failure investigation
+  * Design and analyze Starship Environmental Control and Life Support Systems (ECLSS)
 
 * Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
+------
   * AF Project: DoD Next Generation Weather Satellite Constellation
   * Evaluate the impact of alternative satellite architectures and sensor configuration on DoD space-based environmental monitoring (SBEM) capability
   * Investigate potential technology or operational solutions to address capability gaps
@@ -34,6 +38,7 @@ Work experience
   * Optimize a HEO orbit for EOIR coverage in the arctic with ABI imager as a baseline
 
 * Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
+------
   * NASA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
   * Develop MBSE approach and framework for space vehicle system architects utilizing the multi-disciplinary design process to deal with pervasive system complexity problem
   * Develop model-based MEL, PEL and mission profile for lunar lander cargo mission
@@ -43,6 +48,7 @@ tool - DYREQT (developed by GT ASDL and MSFC)
   * Perform use case and error potential reduction to demonstrate the benefit of using MBSE
 
 * Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
+------
   * FAA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
   * Selected Jet Noise Reduction Technology
   * Provided boundary conditions for CFD simulation
@@ -51,6 +57,7 @@ tool - DYREQT (developed by GT ASDL and MSFC)
   * Modeled inlet performance using zero-order methods for different inlets to minimize installation effects
 
 * Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
+------
   * NASA Project: Sustainable and Resilient Space Habitats for Long-Term Spaceflight Operation
   * Explored and identified appropriate methods/techniques for resilience assessment on different configuration strategies against different scenarios
   * Explored and develop additional recovery/reconfiguration strategies
@@ -59,6 +66,7 @@ tool - DYREQT (developed by GT ASDL and MSFC)
 
 
 * NASA ISS Environmental Control and Life Support Systems Engineer - NASA/The Boeing Company - January 2018 – August 2020
+------
   * ISS Expedition 61/62/63/64 Increment Lead
   * ISS Resupply Vehicle HTV-9 Team Lead
   * ECLSS -MERLIN console Team Lead
@@ -75,6 +83,7 @@ tool - DYREQT (developed by GT ASDL and MSFC)
 
 
 * United State Air Force System Engineer - U.S. Air Force/Advanced Project Consulting - September 2016 – January 2018
+------
   * Researched factors that degrade system reliability and developed means to better predict reliability
   * Provided Integrated Engineer Support to various platforms: C-130, E-3, B-52, C-5, F15, & F16
   * Analyzed and Created Engineer drawings providing alternate parts to qualify for Fit, Form and Function
