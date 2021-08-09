@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2018-11-14
+Edit: 2021-08-08
 toc: false
 commentable: false
 protected: true
@@ -22,13 +22,13 @@ Education
 
 Work experience
 ======
-### Life Support System Engineer Intern - SpaceX - May 2021 - Aug 2021
+* Life Support System Engineer Intern - SpaceX - May 2021 - Aug 2021
 
   * In charge of Fire Suppression System (FSS) for crew dragon
   * Lead Crew Dragon Portable Fire Extinguisher (PFE) failure investigation
   * Design and analyze Starship Environmental Control and Life Support Systems (ECLSS)
 
-### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
+* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - Present
 
   * NASA Project: Sustainable and Resilient Space Habitats for Long-Term Spaceflight Operation
   * Explored and identified appropriate methods/techniques for resilience assessment on different configuration strategies against different scenarios
@@ -36,7 +36,7 @@ Work experience
   * Explored and design lunar exploration habitats and lunar rovers
   * Developed a parametric, flexible and MBSE-enabled total habitat system model
 
-### NASA ISS Environmental Control and Life Support Systems Engineer - NASA/The Boeing Company - January 2018 – August 2020
+* NASA ISS Environmental Control and Life Support Systems Engineer - NASA/The Boeing Company - January 2018 – August 2020
 
   * ISS Expedition 61/62/63/64 Increment Lead
   * ISS Resupply Vehicle HTV-9 Team Lead
@@ -53,7 +53,7 @@ Work experience
   * Certified MERLIN on Console to provide Engineering Support in the MCC-MER (MER)
 
 
-### United State Air Force System Engineer - U.S. Air Force/Advanced Project Consulting - September 2016 – January 2018
+* United State Air Force System Engineer - U.S. Air Force/Advanced Project Consulting - September 2016 – January 2018
 
   * Researched factors that degrade system reliability and developed means to better predict reliability
   * Provided Integrated Engineer Support to various platforms: C-130, E-3, B-52, C-5, F15, & F16
@@ -64,7 +64,7 @@ Work experience
 
 Graduate Research Projects
 ======
-### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
 
   * AF Project: DoD Next Generation Weather Satellite Constellation
   * Evaluate the impact of alternative satellite architectures and sensor configuration on DoD space-based environmental monitoring (SBEM) capability
@@ -73,7 +73,7 @@ Graduate Research Projects
   * Develop cost model and perform trade study on key elements such as cost, performance on the constellation
   * Optimize a HEO orbit for EOIR coverage in the arctic with ABI imager as a baseline
 
-### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
 
   * NASA Project: Mode Based System Engineering for In Space Vehicle
   * Develop MBSE approach and framework for space vehicle system architects utilizing the multi-disciplinary design process to deal with pervasive system complexity problem
@@ -83,7 +83,7 @@ tool - DYREQT (developed by GT ASDL and MSFC)
   * Develop Lunar Lander model in MagicDraw, OpenMBEE, and DYREQT
   * Perform use case and error potential reduction to demonstrate the benefit of using MBSE
 
-### Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
+* Graduate Research Assistant - Georgia Institude of Technology - Sept 2020 - May 2021
 
   * FAA Project: Jet Noise Modeling to Support Low Noise Supersonic Aircraft Technology Development
   * Selected Jet Noise Reduction Technology
